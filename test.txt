@@ -7,5 +7,7 @@ git log -> showing all changes have made
 git switch -> switch branches
 git push -> update remote refs
 git pull -> adding all new from the repo
+git status -> show the status of the changes
+git reset -> remove the changes that have been made and let you chose if you want to (delete it - return it - change it)
 
 there are 2 main repo -> (local, remote)
