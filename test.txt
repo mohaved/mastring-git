@@ -1,1 +1,10 @@
-hello_world 
+git add -> adding new branch
+git commit -> commiting new edit and recording the changes
+git checkout -> checking out branches
+git init -> create an empty git repo
+git branch -> editing branches
+git switch -> switch branches
+git push -> update remote refs
+git pull -> adding all new from the repo
+
+there are 2 main repo -> (local, remote)
