@@ -3,6 +3,7 @@ git commit -> commiting new edit and recording the changes
 git checkout -> checking out branches
 git init -> create an empty git repo
 git branch -> editing branches
+git log -> showing all changes have made
 git switch -> switch branches
 git push -> update remote refs
 git pull -> adding all new from the repo
