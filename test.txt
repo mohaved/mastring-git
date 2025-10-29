@@ -9,5 +9,6 @@ git push -> update remote refs
 git pull -> adding all new from the repo
 git status -> show the status of the changes
 git reset -> remove the changes that have been made and let you chose if you want to (delete it - return it - change it)
+git revert -> same as reset but it make you tell all that you have delete thing from the branch
 
 there are 2 main repo -> (local, remote)
